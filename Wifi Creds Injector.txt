@@ -1,0 +1,1 @@
+javascript:document.getElementById('username').value = '###Add your username here###'; undefined;document.getElementById('password').value = '###Add your password here###';document.getElementById("loginbutton").click();
